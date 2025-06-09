@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".editorconfig": "editorconfig",
+        "*.tidal": "haskell",
+        "kernel.h": "c"
+    }
+}
